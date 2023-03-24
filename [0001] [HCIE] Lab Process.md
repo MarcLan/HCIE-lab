@@ -1,6 +1,6 @@
 # 0. Pre-exam Preparation
 
-## 0.1 Voucher Application
+### 0.1 Voucher Application
 
 - [Apply for offline lab voucher](https://e.huawei.com/en/talent/#/personal/hw-emploees/applay-vouchers?couponType=VOUCHER&usageScenes=HW)
 
@@ -16,14 +16,14 @@
 
 
 
-## 0.2 Exam Registration
+#### 0.2 Exam Registration
 
 - Prapassara Boonban 84131660, temporary examiner, may change later
 - Sign up 7 days in advance
 - The Thai examiner sends the information form to the examinee. The experimental exam account must be the same as the written exam account. The system will check whether the written exam is passed.
 - Wait for the Chinese examiner to approve the examination room, then enter the system (only in English to select Thailand) to select the examination room, bring out the examination voucher, and complete the registration
 
-## 0.3 Material preparation
+#### 0.3 Material preparation
 
 - Mouse, keyboard, charger
 
@@ -31,7 +31,7 @@
 
   
 
-# 1. Exam Process
+## 1. Exam Process
 
 ## 1.1 Date and Location
 
