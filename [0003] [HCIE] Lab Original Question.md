@@ -326,9 +326,9 @@ The headquarter of Company A is Beijing, with 500 employees. To better promote e
      protected function build_parameters() {
              $parameters = [
              'scheme' => 'tcp',
-             'host' => 'DCS内网IP', #这里修改为DCS内网IP
+             'host' => 'DCS internal IP', # Add internal IP
              'port' => 6379,
-             'password' => 'P@ssw0rdHCIE0lab999', #修改这里为考试要求的密码
+             'password' => 'P@ssw0rdHCIE0lab999', # Password
              'database' => 0,
              'timeout' => 1,
              'read_timeout' => 1,
