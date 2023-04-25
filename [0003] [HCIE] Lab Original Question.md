@@ -1,5 +1,5 @@
 ### Personal use, do not spread
-
+- **This is only for version 2.0 ( December 2022 ) , some parts have been changed.**
 - After the exam, memorize the questions, and then write the questions.
 - 100% (It's changed to 3.0 recently, this is for lab 2.0) real questions, non-simulation questions
 - The code is in the exam text, no need to memorize, copy it.
